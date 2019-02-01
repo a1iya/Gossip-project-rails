@@ -21,4 +21,8 @@ $ rails db:seed
 
 $ rails console
 
-tp tp PrivateMessage.all.sample, tp Gossip.all, etc.
+tp PrivateMessage.all.sample, tp Gossip.all, etc.
+
+Lien vers les autres projets du jeudi :
+[Gossip-project](https://github.com/a1iya/Gossip-project-rails)
+[Doctolib 2.0](https://github.com/a1iya/Doctolib2.0)
