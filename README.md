@@ -23,7 +23,7 @@ $ rails console
 
 tp PrivateMessage.all.sample, tp Gossip.all, etc.
 
-#### Lien vers les autres projets du jeudi :
+#### Liens vers les autres projets du jeudi :
 
 [Gossip-project](https://github.com/a1iya/Gossip-project-rails)
 
